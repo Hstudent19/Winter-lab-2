@@ -29,6 +29,7 @@
         android:layout_marginBottom="136dp"
         android:orientation="horizontal"
         android:text="Check This Out!"
+        android:checked="false"
         app:layout_constraintBottom_toTopOf="@+id/editTextText1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
